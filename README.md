@@ -69,8 +69,5 @@ The system uses CSV format for storing attendance data with the following struct
 This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## Author
-- **anasraheemdev** - *Initial work*
+Created with ❤️ by Anas Raheem
 
-## Acknowledgments
-- Thanks to all contributors who have helped in developing this system
-- Inspired by the need for simple yet effective attendance management solutions
